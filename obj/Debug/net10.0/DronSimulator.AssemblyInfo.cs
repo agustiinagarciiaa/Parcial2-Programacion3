@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DronSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4404486d31f96ce66b6042070667e9b49856065f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DronSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DronSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
